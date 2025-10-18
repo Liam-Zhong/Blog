@@ -21,7 +21,7 @@ theme = "hugo-paper"
   monoDarkIcon = true
   favicon = "favicon.ico" 
 
-avatar = 'https://picx.zhimg.com/v2-5fe3afc9c57d74165650721e7a38c045_xll.jpg'
+avatar = 'https://pic-private.zhihu.com/v2-1c006a7896b6ece145052d56f0e1e29c~resize:1440:q75.png?source=1f5c5e47&expiration=1760783972&auth_key=1760783972-0-0-0bdc35ce27dc3e5273de1cf592256883&protocol=v2&sampling=False&animatedImagePlayCount=1&overTime=60&incremental=False&sceneCode=article_draft_web&animatedImageAutoPlay=False&retryCount=3&precoder=False&draft_token=704569937'
   name = 'Liam'
   bio = '骋我径寸翰，流藻垂华芬'
 # ------------------------------
