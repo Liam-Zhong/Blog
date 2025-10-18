@@ -17,6 +17,7 @@ theme = "hugo-paper"
 [params]
   color = 'linen'
   github = 'Liam-Zhong'
+  mastodon = 'https://mastodon.social/@tuffy1883'
   rss = true 
   monoDarkIcon = true
   favicon = "favicon.ico" 
