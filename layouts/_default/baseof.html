@@ -52,18 +52,5 @@
     </main>
 
     {{- partial "footer.html" . -}}
-
-    <script>
-  // 初始化 Swup 插件
-  const swup = new Swup({
-    containers: ["body"], 
-    plugins: [
-      new SwupHeadPlugin(),
-      new SwupPreloadPlugin({ preloadVisibleLinks: true }), 
-      new SwupProgressPlugin(),
-    ],
-  });
-</script>
-
   </body>
 </html>

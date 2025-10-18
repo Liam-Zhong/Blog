@@ -68,12 +68,12 @@ $paginator.Pages -}}<!---->
 {{- if gt $paginator.TotalPages 1 -}}
 <nav class="mt-14 flex">
   {{- if $paginator.HasPrev -}}
-  <a class="btn not-prose" href="{{- $paginator.Prev.URL -}}" data-swup
+  <a class="btn not-prose" href="{{- $paginator.Prev.URL -}}" 
     >← {{- i18n "prev_page" -}}</a
   >
   {{- end -}}<!---->
   {{- if $paginator.HasNext -}}
-  <a class="btn not-prose ml-auto" href="{{- $paginator.Next.URL -}}" data-swup
+  <a class="btn not-prose ml-auto" href="{{- $paginator.Next.URL -}}"
     >{{- i18n "next_page" -}} →</a
   >
   {{- end -}}
