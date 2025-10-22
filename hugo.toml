@@ -1,7 +1,7 @@
 baseURL = "https://chlzhong.org/"
 title = "Chlzhong"
 author = "Steve Francia"
-copyright = "© 2024-2025, liam.so"
+copyright = "© 2024-2025, tuffy.so"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -23,7 +23,7 @@ theme = "hugo-paper"
   favicon = "favicon.ico" 
 
 avatar = 'https://pic3.zhimg.com/80/v2-5598b103af19fca6dfc20d8183853c48_1440w.jpg'
-  name = 'Liam'
+  name = 'Tuffy'
   bio = '骋我径寸翰，流藻垂华芬'
 # ------------------------------
 

@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '报告格式——通往知识的路上给你绊一跤'
 date = 2024-11-23T22:25:19+08:00
 math = true 

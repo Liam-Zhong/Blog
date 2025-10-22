@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = 'SVM 支持向量机'
 date = 2024-12-05T18:18:22+08:00
 math = true 

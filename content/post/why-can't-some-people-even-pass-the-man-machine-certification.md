@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '怎么有人连人机验证都过不了'
 date = 2024-07-04T22:38:02+08:00
 math = true                                

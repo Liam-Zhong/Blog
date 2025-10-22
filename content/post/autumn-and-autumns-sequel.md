@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '秋和秋的续'
 date = 2025-06-06T23:23:19+08:00
 math = true 

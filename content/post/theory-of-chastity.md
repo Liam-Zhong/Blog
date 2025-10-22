@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '贞操论'
 date = 2025-01-20T17:50:53+08:00
 math = true 

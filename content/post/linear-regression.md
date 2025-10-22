@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '线性回归'
 date = 2024-12-05T12:32:24+08:00
 math = true 

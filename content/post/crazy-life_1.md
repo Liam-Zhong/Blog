@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '发电系列之图图呢'
 date = 2024-06-03T22:34:40+08:00
 math = true

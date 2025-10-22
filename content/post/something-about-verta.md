@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '青色魇'
 date = 2024-08-11T14:34:48+08:00
 math = true 

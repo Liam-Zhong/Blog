@@ -1,7 +1,7 @@
 +++
 date = '2025-09-15T22:15:43+08:00'
 draft = false
-author = "Liam"
+author = "Tuffy"
 math = true 
 comments = true
 toc = false

@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '王大令楷书保母砖题跋卷'
 date = 2024-07-12T11:04:58+08:00
 math = true 

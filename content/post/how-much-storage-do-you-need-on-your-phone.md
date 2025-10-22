@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '你需要多大「内存」的手机？'
 date = 2024-10-08T14:32:47+08:00
 math = true 

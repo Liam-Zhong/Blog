@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '答辩结束'
 date = 2024-07-10T23:17:27+08:00
 math = true 

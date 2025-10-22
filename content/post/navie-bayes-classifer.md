@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '朴素贝叶斯算法与垃圾短信识别'
 date = 2024-12-03T21:17:52+08:00
 math = true 

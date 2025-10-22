@@ -1,5 +1,5 @@
 +++
-author = "Liam"
+author = "Tuffy"
 title = '麻将集（一）：我独何人，能不靖乱'
 date = 2024-09-29T10:00:05+08:00
 math = true 

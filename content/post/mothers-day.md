@@ -1,5 +1,5 @@
 +++
-author = "废名"
+author = "Tuffy"
 title = "【转】病人"
 date = 2025-05-11T22:58:10+08:00
 math = true 
