@@ -37,9 +37,11 @@
 
     // dark theme
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = '{{- $bg_color -}}'.replace(/"/g, '');
+    const lightColor = '#FAF8F2';  
+    const darkColor = '#262525';   
+
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? darkColor : lightColor);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -12,7 +12,8 @@
   </title>
 
   <!-- meta -->
-  <meta name="theme-color" />
+  <meta name="theme-color" content="#FAF8F2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#262525" media="(prefers-color-scheme: dark)">
 
   <!-- author -->
   {{- $site_author := or site.Author.name site.Params.name site.Title -}}
@@ -83,7 +84,7 @@
 <link rel="manifest" href="/site.webmanifest" />
 
 <!-- Open Graph / Social Meta (iMessage / Facebook / Twitter) -->
-<meta property="og:title" content="chlzhong">
+<meta property="og:title" content="Chlzhong">
 <meta property="og:description" content="Personal blog by Chlzhong">
 <meta property="og:image" content="/og.png">
 <meta property="og:url" content="https://chlzhong.org">
